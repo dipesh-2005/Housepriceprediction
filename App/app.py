@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 import os
-os.chdir("C:/PROJECTS/HOUSE PRICE PREDICTION")
+
 
 
 # ─── Page Config ────────────────────────────────────────────────────────────
